@@ -22,7 +22,7 @@ function App() {
           <>
             <img src={rickmorty} alt="Logo" className="img-home" />
             <button onClick={repApi} className="btn-search">
-              Buscar personaje
+              Ver personaje
             </button>
           </>
         )}
